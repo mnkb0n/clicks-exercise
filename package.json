@@ -1,0 +1,16 @@
+{
+  "name": "clicks",
+  "version": "1.0.0",
+  "description": "clicks test",
+  "main": "index2.js",  
+  "scripts": {
+    "solution": "node index.js",
+    "test": "jest"
+  },
+  "author": "Enrique Gonzalez",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
